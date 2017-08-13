@@ -1,0 +1,22 @@
+body{
+  background-image: url("bg.png");
+  background-color: dodgerblue;
+}
+#feedback{
+  background:#fff;
+  opacity:0.85;
+  padding: 20px 40px 20px 40px;
+  border:#ccc 2px solid;
+  position:absolute;
+  top:100px;
+  left:50px;
+  align-self: center;
+}
+textarea {
+    resize: none;
+    text-align: justify;
+    white-space: normal;
+}
+.buttonHolder{
+  text-align: center;
+}
